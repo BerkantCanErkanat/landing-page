@@ -1,0 +1,136 @@
+{
+    "projects" : [
+        {
+            "source":"images/bitirme2.png",
+            "title":"Optimizing the unbalance factor in distribution systems using GWO",
+            "description":"Electrical vehicles will be highly used soon. The power demand for electrical vehicles will have an effect on the distribution systems.",
+            "key":"bitirme2",
+            "longDescription":"Electrical vehicles will be highly used soon. The power demand for electrical vehicles will have an effect on the distribution systems. One of the major challenges that utilities need to examine is the increase in the unbalance factor. Phase unbalancing can damage distribution system components. However, there are different ways to overcome this problem. Phase switching and making use of the reactive power of pVs are two of the ways. Thus, in this work, these algorithms are used with GWO which gives us the optimal configurations. Simulations are carried out in the IEEE 123-Bus system predefined on OpenDSS that enables us to add loads, and renewable energy sources externally. Results show us the improvement in the unbalance factor and compliance with engineering standards.",
+            "technologies":"MATLAB OpenDSS GWO",
+            "date":"Jun 10 2022",
+            "github":null,
+            "pdf":"pdfs/bitirme2.pdf",
+            "live":null
+        },
+        {
+            "source":"images/bitirme1.png",
+            "title":"Overvoltage and Undervoltage problems and their solutions in distribution systems using OpenDSS",
+            "description":"Power distribution systems will go through changes in the near future. Cars with internal combustion engines will be replaced by EVs.",
+            "key":"bitirme1",
+            "longDescription":"Power distribution systems will go through changes in the near future. Cars with internal combustion engines will be replaced by EVs. People will charge their EVs at homes or at workplaces, new renewable energy sources will arise and people will tend to use PV on their roofs, and unpredictable load demands may appear. Briefly, the need for electricity will increase. An increase in demand will come with problems. In this paper, a futuristic situation full of EVs, PVs, and other power system components has been set up by taking the IEEE 123-Bus system as a base. Their interactions have been observed and issues that can happen with these interactions have been analyzed. Voltage level optimization has been performed by adjusting power control elements and voltage regulation optimization algorithm by considering ANSI standards. Results have shown us that our optimization is beneficial for a situation like this.",
+            "technologies":"MATLAB OpenDSS",
+            "date":"Feb 20 2022",
+            "github":null,
+            "pdf":"pdfs/bitirme1.pdf",
+            "live":null
+        },
+        {
+            "source":"images/info1.png",
+            "title":"Application of Math Models on Smart Grids",
+            "description":"While creating the mathematical model of the events taking place in nature, a mathematical model can also be created for human situations.",
+            "key":"info1",
+            "longDescription":"The mathematical model is the explanation of the determined problem through mathematics. It can be used for engineering and other sciences. The whole process of creating a mathematical model is called mathematical modeling [1]. While creating the mathematical model of the events taking place in nature, a mathematical model can also be created for human situations. Also in this study, the goal was to create a mathematical model for the Smart  Grid. We know that every work to be done on this subject is very important these days when the use of Smart Grid has become increased. It is also known that the creation of the mathematical model is very successful and important in terms of  supporting other scientific stages and understanding them. It is very important what the parameters are and for what purposes they will be used together with the model created. We have completed our mathematical model with the parameters that can be changed in our project and the constraints that we have created as a result of careful research. Our mathematical model has been completed by considering all the needs and demands, especially for HEMS. As can be seen in the explanations we have given in detail in the following chapters, we have created a mathematical model with applicable, changeable parameters as a result of our studies.",
+            "technologies":"MATLAB",
+            "date":"Mar 30 2022",
+            "github":"https://github.com/BerkantCanErkanat/Application-of-Mathematical-Models-on-Smart-Grid",
+            "pdf":"pdfs/info1.pdf",
+            "live":null
+        },
+        {
+            "source":"images/restApi.png",
+            "title":"Building a REST-API",
+            "description":"StackOverflow kind RES-API is developed. All aspects are considered, JWT, routing, pagination etc.",
+            "key":"restApi",
+            "longDescription":"",
+            "technologies":"Node.js Express MongoDB Postman",
+            "date":"Jun 26 2022",
+            "github":"https://github.com/BerkantCanErkanat/Building-a-RESTAPI-with-nodejs-express",
+            "pdf":null,
+            "live":null
+        },
+        {
+            "source":"images/movieApp.png",
+            "title":"A movieApp",
+            "description":"A movie app where users can create lists, search for new movies using TMDB",
+            "key":"movieApp",
+            "longDescription":"",
+            "technologies":"HTML Bootstrap Javascript",
+            "date":"Dec 18 2021",
+            "github":"https://github.com/BerkantCanErkanat/MovieApp",
+            "pdf":null,
+            "live":"https://movie-app-berkant.glitch.me/"
+        },
+        {
+            "source":"images/guessTheWord.png",
+            "title":"A word guessing game",
+            "description":"A word guessing game where users try to guess the word whose letters are mixed",
+            "key":"guessTheWord",
+            "longDescription":"",
+            "technologies":"HTML Bootstrap Javascript",
+            "date":"Oct 18 2021",
+            "github":"https://github.com/BerkantCanErkanat/Guess-The-Word",
+            "pdf":null,
+            "live":"https://guess-the-word-bce.glitch.me/"
+        },
+        {
+            "source":"images/safePassword.png",
+            "title":"Safe Password",
+            "description":"A password app for keeping long passwords, creating new ones with highest security and using them without memorizing any",
+            "key":"safePassword",
+            "longDescription":"Kotlin Android",
+            "technologies":"Kotlin Android",
+            "date":"May 6 2021",
+            "github":"https://github.com/BerkantCanErkanat/SafePassword",
+            "pdf":null,
+            "live":null
+        },
+        {
+            "source":"images/soloTest.png",
+            "title":"Solo Test",
+            "description":"Solo Test game",
+            "key":"soloTest",
+            "longDescription":"Java",
+            "technologies":"Java",
+            "date":"Sep 15 2020",
+            "github":"https://github.com/BerkantCanErkanat/solotest",
+            "pdf":null,
+            "live":null
+        },
+        {
+            "source":"images/survive.png",
+            "title":"Surviving meteors",
+            "description":"A desktop game where users try to dodge meteors",
+            "key":"survive",
+            "longDescription":"Java",
+            "technologies":"Java",
+            "date":"Sep 15 2020",
+            "github":"https://github.com/BerkantCanErkanat/Survive",
+            "pdf":null,
+            "live":null
+        },
+        {
+            "source":"images/survivorBird.png",
+            "title":"Survivor Bird",
+            "description":"An android game where users try to keep the bird alive by passing objects",
+            "key":"survivorBird",
+            "longDescription":"Java Android LibGDX",
+            "technologies":"Java Android LibGDX",
+            "date":"Oct 5 2020",
+            "github":"https://github.com/BerkantCanErkanat/SurvivorBird",
+            "pdf":null,
+            "live":null
+        },
+        {
+            "source":"images/zombi.png",
+            "title":"Zombie",
+            "description":"A desktop game where users try to shoot zombies and try to survive",
+            "key":"zombi",
+            "longDescription":"Java",
+            "technologies":"Java",
+            "date":"Sep 15 2020",
+            "github":"https://github.com/BerkantCanErkanat/KillTheZombies",
+            "pdf":null,
+            "live":null
+        }
+    ]
+}
